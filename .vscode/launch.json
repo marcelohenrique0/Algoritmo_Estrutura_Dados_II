@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Marcelo/Downloads/Algoritmo_Estrutura_Dados_II/AULA_DIA_18_07",
-      "program": "c:/Users/Marcelo/Downloads/Algoritmo_Estrutura_Dados_II/AULA_DIA_18_07/build/Debug/outDebug",
+      "cwd": "c:/Users/Marcelo/Downloads/Algoritmo_Estrutura_Dados_II/AULA_DIA_24_07",
+      "program": "c:/Users/Marcelo/Downloads/Algoritmo_Estrutura_Dados_II/AULA_DIA_24_07/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
